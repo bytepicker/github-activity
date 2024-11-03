@@ -1,5 +1,7 @@
 # GitHub Activity Viewer
 
+Implementing [roadmap exapmle project](https://roadmap.sh/projects/github-user-activity)
+
 This is a CLI tool that fetches and displays recent public events for a GitHub user. It uses the GitHub API to retrieve events and organizes them by event type (e.g., push events, issue comments, repository watches). The tool provides a simple overview of activity with details specific to each event type.
 
 ## Features
